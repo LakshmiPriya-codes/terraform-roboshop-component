@@ -17,3 +17,8 @@ variable "component" {
 variable "domain_name" {
   default = "lpdaws.online"
 }
+
+
+variable "rule_priority" {
+    type = string
+}
