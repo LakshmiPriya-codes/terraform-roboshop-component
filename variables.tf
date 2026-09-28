@@ -20,5 +20,5 @@ variable "domain_name" {
 
 
 variable "rule_priority" {
-    #type = string
+    type = string
 }
